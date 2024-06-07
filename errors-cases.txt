@@ -1,0 +1,3 @@
+errors in rust can arises due to :-
+
+1.) uninitialized variables , but used in the code.
