@@ -1,4 +1,5 @@
 // statements ends with a semicolon.
+//
 // statements are expressions that performs some action but do not produce or return a value.
 // expressions evaluate to a value.
 // always remember in rust the return statement does not have a semicolon.

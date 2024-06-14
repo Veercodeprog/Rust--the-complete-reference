@@ -96,7 +96,7 @@
 // 2. 🌟 Unit type dont have nay fields associated with it. it can be useful when you need to
 //    implement a trait on some type but dont have any data to store in the type itself.
 //
-//    struct Unit;
+//    struct Unit;  //unit struct
 //    trait SomeTrait {
 //    // .. some behaviors defined here
 //    }

@@ -8,7 +8,7 @@
 // 2. References must always be valid.
 //
 // fn main() {
-//    let s1 = String::from("hello");
+//    let x= String::from("hello");
 //    let y = x; // solution is to use the clone method // let y = x.clone();
 //    println!("{}", x,y); // this will not work as x has been moved and is no longer valid.
 //    }
